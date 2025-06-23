@@ -1,4 +1,3 @@
-# nyk-antalya-support
 
 <!DOCTYPE html>
 <html lang="en">
